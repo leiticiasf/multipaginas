@@ -1,0 +1,23 @@
+body {
+    background-image: url("gatito.gif");
+    background-size: cover;
+    text-align: center;
+
+}
+
+h1 {
+    color: azure;
+    font-display: engraved;
+    font-size: 100px;
+}
+
+button {
+    background-color: black;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 50;
+    height: 50px;
+    padding: 50;
+    background-image: url("mix.gif");
+    background-size: 0.1;
+}
